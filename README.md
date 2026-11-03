@@ -19,7 +19,7 @@ Install and update the Codestead learning tools. Latest version: **0.1.6** · [r
 
 ## Codestead Linux
 
-Learn the Linux shell by doing. Latest version: **0.5.6** · [release notes](https://github.com/JesperE98/codestead-releases/releases/tag/codestead-linux-v0.5.6) · [all versions](https://github.com/JesperE98/codestead-releases/releases?q=codestead-linux-v&expanded=true)
+Learn the Linux shell by doing. Latest version: **0.6.0** · [release notes](https://github.com/JesperE98/codestead-releases/releases/tag/codestead-linux-v0.6.0) · [all versions](https://github.com/JesperE98/codestead-releases/releases?q=codestead-linux-v&expanded=true)
 
 | System | Download | How to install |
 |---|---|---|
