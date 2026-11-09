@@ -34,7 +34,7 @@ Install and update the Codestead learning tools. Latest version: **0.2.1** · [r
 
 ## Codestead Linux
 
-Learn the Linux shell by doing. Latest version: **0.6.1** · [release notes](https://github.com/JesperE98/codestead-releases/releases/tag/codestead-linux-v0.6.1) · [all versions](https://github.com/JesperE98/codestead-releases/releases?q=codestead-linux-v&expanded=true)
+Learn the Linux shell by doing. Latest version: **0.6.2** · [release notes](https://github.com/JesperE98/codestead-releases/releases/tag/codestead-linux-v0.6.2) · [all versions](https://github.com/JesperE98/codestead-releases/releases?q=codestead-linux-v&expanded=true)
 
 | System | Download | How to install |
 |---|---|---|
@@ -49,10 +49,10 @@ Learn the Linux shell by doing. Latest version: **0.6.1** · [release notes](htt
 Every versioned release has a `SHA256SUMS.txt` with the checksum of each file. Compare it with yours:
 
 ```bash
-sha256sum codestead-linux_0.6.1_amd64.deb
+sha256sum codestead-linux_0.6.2_amd64.deb
 ```
 
-On Windows (PowerShell): `Get-FileHash .\codestead-linux-0.6.1-win-x64-Setup.exe`.
+On Windows (PowerShell): `Get-FileHash .\codestead-linux-0.6.2-win-x64-Setup.exe`.
 
 ## Windows SmartScreen
 
