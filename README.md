@@ -8,6 +8,7 @@ starting with **Codestead Linux**, which teaches the Linux shell in a simulated 
 - [Quick start](#quick-start)
 - [Codestead hub](#codestead-hub)
 - [Codestead Linux](#codestead-linux)
+- [Codestead GP](#codestead-gp)
 - [Verifying downloads](#verifying-downloads)
 - [Windows SmartScreen](#windows-smartscreen)
 - [What the releases are](#what-the-releases-are)
@@ -43,6 +44,18 @@ Learn the Linux shell by doing. Latest version: **0.6.2** · [release notes](htt
 | **Fedora** | [codestead-linux.x86_64.rpm](https://github.com/JesperE98/codestead-releases/releases/download/codestead-linux-latest/codestead-linux.x86_64.rpm) | `sudo dnf install ./codestead-linux.x86_64.rpm` |
 | **Arch Linux / CachyOS** | [codestead-linux-x86_64.pkg.tar.zst](https://github.com/JesperE98/codestead-releases/releases/download/codestead-linux-latest/codestead-linux-x86_64.pkg.tar.zst) | `sudo pacman -U codestead-linux-x86_64.pkg.tar.zst` |
 | **Any Linux (AppImage)** | [codestead-linux-linux-x86_64.AppImage](https://github.com/JesperE98/codestead-releases/releases/download/codestead-linux-latest/codestead-linux-linux-x86_64.AppImage) | `chmod +x` the file and start it. It updates itself. |
+
+## Codestead GP
+
+Learn graphics programming with OpenGL, Vulkan or DirectX 12. Latest version: **0.1.0** · [release notes](https://github.com/JesperE98/codestead-releases/releases/tag/codestead-gp-v0.1.0) · [all versions](https://github.com/JesperE98/codestead-releases/releases?q=codestead-gp-v&expanded=true)
+
+| System | Download | How to install |
+|---|---|---|
+| **Windows 10/11 (x64)** | [codestead-gp-win-x64-Setup.exe](https://github.com/JesperE98/codestead-releases/releases/download/codestead-gp-latest/codestead-gp-win-x64-Setup.exe) | Run the file. It installs for your user and updates itself. |
+| **Ubuntu / Debian** | [codestead-gp_amd64.deb](https://github.com/JesperE98/codestead-releases/releases/download/codestead-gp-latest/codestead-gp_amd64.deb) | `sudo apt install ./codestead-gp_amd64.deb` |
+| **Fedora** | [codestead-gp.x86_64.rpm](https://github.com/JesperE98/codestead-releases/releases/download/codestead-gp-latest/codestead-gp.x86_64.rpm) | `sudo dnf install ./codestead-gp.x86_64.rpm` |
+| **Arch Linux / CachyOS** | [codestead-gp-x86_64.pkg.tar.zst](https://github.com/JesperE98/codestead-releases/releases/download/codestead-gp-latest/codestead-gp-x86_64.pkg.tar.zst) | `sudo pacman -U codestead-gp-x86_64.pkg.tar.zst` |
+| **Any Linux (AppImage)** | [codestead-gp-linux-x86_64.AppImage](https://github.com/JesperE98/codestead-releases/releases/download/codestead-gp-latest/codestead-gp-linux-x86_64.AppImage) | `chmod +x` the file and start it. It updates itself. |
 
 ## Verifying downloads
 
