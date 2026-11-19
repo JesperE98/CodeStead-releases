@@ -47,7 +47,7 @@ Learn the Linux shell by doing. Latest version: **0.6.7** · [release notes](htt
 
 ## Codestead GP
 
-Learn graphics programming with OpenGL, Vulkan or DirectX 12. Latest version: **0.2.6** · [release notes](https://github.com/JesperE98/codestead-releases/releases/tag/codestead-gp-v0.2.6) · [all versions](https://github.com/JesperE98/codestead-releases/releases?q=codestead-gp-v&expanded=true)
+Learn graphics programming with OpenGL, Vulkan or DirectX 12. Latest version: **0.2.7** · [release notes](https://github.com/JesperE98/codestead-releases/releases/tag/codestead-gp-v0.2.7) · [all versions](https://github.com/JesperE98/codestead-releases/releases?q=codestead-gp-v&expanded=true)
 
 | System | Download | How to install |
 |---|---|---|
