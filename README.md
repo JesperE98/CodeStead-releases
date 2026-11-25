@@ -23,7 +23,7 @@ Prefer a single tool without the hub? Every tool has its own installers further 
 
 ## Codestead hub
 
-Install and update the Codestead learning tools. Latest version: **0.2.7** · [release notes](https://github.com/JesperE98/codestead-releases/releases/tag/codestead-hub-v0.2.7) · [all versions](https://github.com/JesperE98/codestead-releases/releases?q=codestead-hub-v&expanded=true)
+Install and update the Codestead learning tools. Latest version: **0.2.8** · [release notes](https://github.com/JesperE98/codestead-releases/releases/tag/codestead-hub-v0.2.8) · [all versions](https://github.com/JesperE98/codestead-releases/releases?q=codestead-hub-v&expanded=true)
 
 | System | Download | How to install |
 |---|---|---|
